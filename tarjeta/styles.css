@@ -1,0 +1,44 @@
+
+body, html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+img {
+    max-width: 100%;
+  }
+
+.card{
+    text-align: center;
+    font-size: 25px;
+    margin: 10px;
+    border: 5px solid black;
+    flex: 40%;
+
+    
+}
+.card .footer{
+    background-color: grey;
+    padding: 10px;
+}
+.p{
+    text-align: center;
+
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.footer{
+    margin: 5px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 25px;
+}
+button{
+    font-size: 30px;
+    border-radius: 10px;
+}
+h1{
+    font-size: 45px;
+}
